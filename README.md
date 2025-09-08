@@ -4,7 +4,7 @@ A modern, responsive single-page application that provides real-time weather dat
 
 *[Link to your live demo on Vercel will go here]*
 
-*[A screenshot of the application will go here]*
+(https://github.com/Shubinstan/weather-app/raw/main/screenshots/weather_screenshot.png?raw=true)
 
 ---
 

@@ -2,7 +2,7 @@
 
 A modern, responsive single-page application that provides real-time weather data and a 5-day forecast. The project is built with React and TypeScript, utilizing the Vite build tool for a high-performance development experience.
 
-*[Link to your live demo on Vercel will go here]*
+(https://react-weather-app-beta-dun.vercel.app/)
 
 ![React Weather App Screenshot](https://github.com/Shubinstan/weather-app/raw/main/screenshots/weather_screenshot.png?raw=true)
 

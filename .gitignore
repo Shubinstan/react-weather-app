@@ -1,0 +1,33 @@
+# This ensures your secret API keys are never uploaded.
+.env
+.env.local
+.env.*.local
+
+# Dependencies & Build artifacts
+# The node_modules folder can be huge and is always re-created with 'npm install'.
+# The 'dist' folder contains the final build and is also generated, not stored.
+node_modules
+dist
+dist-ssr
+*.local
+
+# Log files
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Editor directories and files
+# Ignores configuration files from various code editors.
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
